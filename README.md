@@ -1,4 +1,6 @@
 # Magic-Paper
 Using iOS ARkit to create a newspaper that plays a video based on the image displayed. 
-![alt text](https://github.com/Adriaan999/Magic-Paper/blob/main/daily-prophet.jpeg?raw=true)
-![alt text](https://github.com/Adriaan999/Magic-Paper/blob/main/daily-prophet1.PNG?raw=true)
+<img src="https://user-images.githubusercontent.com/48007732/112951164-5c25a100-913b-11eb-9faa-d5e307e8d332.jpeg" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/48007732/112951499-b3c40c80-913b-11eb-8a94-6866981fef00.PNG" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/48007732/112951501-b4f53980-913b-11eb-988b-bdd74c1a1a6f.PNG" width="300" height="600">
+
