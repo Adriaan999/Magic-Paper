@@ -1,5 +1,6 @@
 # Magic-Paper
 Using iOS ARKit to create a newspaper that plays a video based on the image displayed.
+
 Image used as a newspaper:
 
 <img src="https://user-images.githubusercontent.com/48007732/112951164-5c25a100-913b-11eb-9faa-d5e307e8d332.jpeg" width="300" height="500">
